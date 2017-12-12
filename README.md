@@ -1,2 +1,3 @@
-# wolfram-plotly
-Experiments with the Wolfram Language and the Plotly javascript library
+# bi - business intelligence with the Wolfram Language
+
+Business intelligence with the Wolfram Language
