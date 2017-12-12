@@ -1,3 +1,3 @@
-# bi - business intelligence with the Wolfram Language
+# bi
 
 Business intelligence with the Wolfram Language
